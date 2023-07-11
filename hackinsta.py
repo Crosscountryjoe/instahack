@@ -65,7 +65,7 @@ def Login(username,password):
 
 
 
-username = userExists(str(input('Please enter a username: ')))
+username = userExists(str(input('joepacking')))
 delayLoop = int(input('Please add delay between the passwords (in seconds): ')) 
 
 
